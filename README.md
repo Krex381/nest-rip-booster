@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img width="800" src="https://raw.githubusercontent.com/pterm/pterm/master/_examples/demo/animation.svg" alt="Krex Nest.rip Booster">
+  <img width="800" src="https://media4.giphy.com/media/MEdpNexjEbEXUdirnS/200w.gif?cid=6c09b952hvxycqiik1z541v23e3zq5wn1q3gx5w67tjuurgt&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Krex Nest.rip Booster">
 </p>
 
 ## 🚀 Features
