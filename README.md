@@ -15,7 +15,7 @@
 ## 🚀 Features
 
 - **🌟 Ultra-Fast Performance**: Hit your visitor targets at ludicrous speed
-- **🔄 Guaranteed Click Count**: Always gets EXACTLY the number you request
+- **🔄 Guaranteed Click Count**: Always gets EXACTLY the number you request (its broken ik trying to fix it pls dont be mad)
 - **🎭 Unique Visitors**: Simulates unique users with varying browser fingerprints and IPs
 - **🧠 Smart Rate Limiting Avoidance**: Dynamic delay algorithms to bypass restrictions
 - **🌈 Modern Terminal UI**: Beautiful color-coded interface with progress tracking
