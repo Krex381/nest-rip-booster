@@ -33,7 +33,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/krex/nestrip-booster.git
+git clone https://github.com/Krex381/nest-rip-booster.git
 
 # Navigate to project directory
 cd nestrip-booster
