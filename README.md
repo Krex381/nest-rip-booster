@@ -36,7 +36,7 @@
 git clone https://github.com/Krex381/nest-rip-booster.git
 
 # Navigate to project directory
-cd nestrip-booster
+cd nest-rip-booster
 
 # Install dependencies
 go mod download
